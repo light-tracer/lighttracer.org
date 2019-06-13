@@ -1,0 +1,13 @@
+---
+title: Whiskey Decanter
+subtitle: Model by FM
+layout: default
+modal-id: 4
+date: 2014-07-17
+img: whiskey_decanter.png
+thumbnail: whiskey_decanter_preview.jpg
+alt: image-alt
+description: Model by FM
+link: https://grabcad.com/library/whiskey-decanter-1
+
+---

@@ -1,0 +1,13 @@
+---
+title: AC COBRA
+subtitle: Model by Charlie Borg
+layout: default
+modal-id: 3
+date: 2014-07-17
+img: cobra_car.png
+thumbnail: cobra_car_preview.jpg
+alt: image-alt
+description: Model by Charlie Borg
+link: https://grabcad.com/library/ac-cobra-2
+
+---

@@ -1,0 +1,13 @@
+---
+title: Egg chair
+subtitle: Model by Derya Akyaka
+layout: default
+modal-id: 5
+date: 2014-07-17
+img: egg_chair.png
+thumbnail: egg_chair_preview.jpg
+alt: image-alt
+description: Model by Derya Akyaka
+link: https://grabcad.com/library/egg-chair-5
+
+---

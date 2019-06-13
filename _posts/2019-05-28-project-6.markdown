@@ -1,0 +1,13 @@
+---
+title: Jewelry Ring
+subtitle: Model by Roland Schneider
+layout: default
+modal-id: 6
+date: 2014-07-17
+img: ring.png
+thumbnail: ring_preview.jpg
+alt: image-alt
+description: Model by Roland Schneider
+link: https://grabcad.com/library/jewelry-ring-3
+
+---

@@ -1,0 +1,13 @@
+---
+title: CPU Cooler
+subtitle: Model by Kevin Yu
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cooler.png
+thumbnail: cooler_preview.jpg
+alt: image-alt
+description: Model by Kevin Yu
+link: https://grabcad.com/library/cryorig-c7-cu-cpu-cooler-1
+
+---
