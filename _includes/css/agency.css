@@ -300,6 +300,19 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-text .intro-hint-text {
+    font-family: {{ site.data.template.font.primary }};
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 50px;
+}
+
+header .intro-text .intro-hint-box {
+    padding-top: 10px;
+    margin-bottom: 25px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
