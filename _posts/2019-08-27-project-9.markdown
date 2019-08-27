@@ -1,0 +1,13 @@
+---
+title: ZIS-101A Sport (1938)
+subtitle: Model by Comrade1280
+layout: default
+modal-id: 9
+date: 2014-07-17
+img: zis.png
+thumbnail: zis_preview.png
+alt: image-alt
+description: Model by Comrade1280
+link: https://sketchfab.com/3d-models/zis-101a-sport-1938-a361c0f7b7e041fc8f3437a5cbec681a
+
+---

@@ -1,0 +1,13 @@
+---
+title: Lighter
+subtitle: Model by Johnathon Goswick
+layout: default
+modal-id: 7
+date: 2014-07-17
+img: lighter.png
+thumbnail: lighter_preview.png
+alt: image-alt
+description: Model by Johnathon Goswick
+link: https://sketchfab.com/3d-models/lighter-62160b39425049e48efc57e13efd004d
+
+---

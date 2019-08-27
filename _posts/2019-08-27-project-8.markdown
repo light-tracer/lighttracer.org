@@ -1,0 +1,13 @@
+---
+title: Robot Steampunk
+subtitle: Model by 3d-coat
+layout: default
+modal-id: 8
+date: 2014-07-17
+img: robot.png
+thumbnail: robot_preview.png
+alt: image-alt
+description: Model by 3d-coat
+link: https://sketchfab.com/3d-models/robot-steampunk-3d-coat-45-pbr-91eb0eb061024bf1bc5e3eb5ffe385d8
+
+---
