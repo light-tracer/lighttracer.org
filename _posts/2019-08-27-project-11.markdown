@@ -1,0 +1,13 @@
+---
+title: Jewelry visualization
+subtitle: Model by Denys M
+layout: default
+modal-id: 11
+date: 2014-07-17
+img: ring_2.jpg
+thumbnail: ring_2_preview.jpg
+alt: image-alt
+description: Model by Denys M
+link: https://grabcad.com/library/gold-ring-with-floral-decoration-1
+
+---

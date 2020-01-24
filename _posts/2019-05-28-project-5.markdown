@@ -1,5 +1,5 @@
 ---
-title: Egg chair
+title: Product visualization
 subtitle: Model by Derya Akyaka
 layout: default
 modal-id: 5

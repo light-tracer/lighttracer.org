@@ -1,5 +1,5 @@
 ---
-title: Porsche 356
+title: Automotive visualization
 subtitle: Model by Sergey Egelsky
 layout: default
 modal-id: 6

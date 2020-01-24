@@ -1,0 +1,13 @@
+---
+title: CAD visualization
+subtitle: Model by Anton Tsaritsynskyy
+layout: default
+modal-id: 10
+date: 2014-07-17
+img: cooler.jpg
+thumbnail: cooler_preview.jpg
+alt: image-alt
+description: Model by Anton Tsaritsynskyy
+link: https://grabcad.com/library/deepcool-gammaxx-300-1
+
+---

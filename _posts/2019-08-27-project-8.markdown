@@ -1,5 +1,5 @@
 ---
-title: Ring of diamond
+title: Jewelry visualization
 subtitle: Model by Otgondavaa
 layout: default
 modal-id: 8
