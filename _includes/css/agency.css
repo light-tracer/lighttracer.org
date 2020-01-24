@@ -57,6 +57,10 @@ h6 {
     font-weight: 700;
 }
 
+.about-block {
+    margin-bottom: 10px;
+}
+
 .img-centered {
     margin: 0 auto;
 }

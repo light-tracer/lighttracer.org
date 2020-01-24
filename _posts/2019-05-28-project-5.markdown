@@ -4,7 +4,7 @@ subtitle: Model by Derya Akyaka
 layout: default
 modal-id: 5
 date: 2014-07-17
-img: egg_chair.png
+img: egg_chair.jpg
 thumbnail: egg_chair_preview.jpg
 alt: image-alt
 description: Model by Derya Akyaka
