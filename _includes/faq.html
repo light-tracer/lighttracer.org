@@ -1,0 +1,44 @@
+<!-- FAQ Section -->
+    <section id="faq" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">FAQ</h2>
+                    <h3 class="section-subheading text-muted">Frequently Asked Questions</h3>
+                </div>
+            </div>
+
+                <div class="row">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6">
+                        <p class="faq-entry">Is Light Tracer Render biased or unbiased?</p>
+
+                        <p>Light Tracer is based on verified unbiased rendering engine. Rendering correctness was verified by comparison with comprehensive physically-based renderers such as PBRT (<a href="https://www.pbrt.org/">https://www.pbrt.org/</a>) and Mitsuba (<a href="https://www.mitsuba-renderer.org/">https://www.mitsuba-renderer.org/</a>). The materials are physically based and fully compatible with PBR workflow.</p>
+
+
+                        <p class="faq-entry">Is Light Tracer Render RGB or spectral?</p>
+
+                        <p>Given the strict requirements for working in a Web browser, the Light Tracer engine represents color with RGB values. Nevertheless, it supports spectral effects like dispersion on refractive objects.</p>
+
+                        <p>At the same time, spectral rendering is most apparent when it is used with measured spectral data for both light sources and materials. But, in an artist-driven scene, the light source spectra are more usually reconstructed from RGB sliders in some way, leading to very smooth spectra, where it is very difficult to see actual visual differences between RGB and spectral rendering. Moreover, spectral rendering is computationally more expensive and generates more noise. For these reasons, Light Tracer is built on the RGB ray tracing engine.</p>
+
+                        <p class="faq-entry">Does Light Tracer use CPU, GPU, or both?</p>
+
+                        <p id="gpu">The rendering process runs entirely on the GPU. The CPU is used only for the preparation of input data (in particular, accelerating structures are built and updated on a CPU). Unlike most other GPU renderers, Light Tracer is built on its own technology stack using only cross-platform GPU programming interfaces (it does not use NVIDIA CUDA, OptiX, or AMD Radeon Rays).</p>
+
+                        <p class="faq-entry">Which GPUs are supported?</p>
+
+                        <p>Light Tracer can run almost on any GPU produced after 2012 – 2013. In particular, it works fine on NVIDIA GeForce 600 series or higher, AMD Radeon RX 200 series or higher, Intel HD Graphics 4000 series or higher. At the same time, Light Tracer can utilize unique features of modern NVIDIA GPUs (if available in the system) to run GPU-accelerated AI denoising.</p>
+
+                        <p class="faq-entry">How fast is Light Tracer Render in comparison to other renderers?</p>
+
+                        <p>Light Tracer's rendering performance is comparable with the high performance GPU engines available today. Moreover, it is close to the performance of engines built for NVIDIA RTX platform. At the same time, Light Tracer provides very important advantage: it can run directly in a Web browser delivering uncompromised rendering quality on any compatible device.</p>
+
+                        <p class="faq-entry">Can I use Light Tracer engine in my own products?</p>
+
+                        <p>Light Tracer engine is a reusable component with its own API and available for integration into both native and web applications on custom licensing terms. Please contact <a href="mailto://info@lighttracer.org">info@lighttracer.org</a> for details.</p>
+                    </div>
+                </div>
+
+        </div>
+    </section>
