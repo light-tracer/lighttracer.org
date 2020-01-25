@@ -1,5 +1,5 @@
 ---
-title: Dieselpunk hovercraft
+title: Vehicle visualization
 subtitle: Model by Alexandr Zhilkin
 layout: default
 modal-id: 7

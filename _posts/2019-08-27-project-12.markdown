@@ -1,0 +1,13 @@
+---
+title: Industrial visualization
+subtitle: Model by Tamas Cserto
+layout: default
+modal-id: 12
+date: 2014-07-17
+img: fan.jpg
+thumbnail: fan_preview.jpg
+alt: image-alt
+description: Model by Tamas Cserto
+link: https://grabcad.com/library/industrial-axial-fan-2
+
+---

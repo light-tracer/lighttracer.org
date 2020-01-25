@@ -1,5 +1,5 @@
 ---
-title: Automotive visualization
+title: Car visualization
 subtitle: Model by Sergey Egelsky
 layout: default
 modal-id: 6
