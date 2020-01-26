@@ -1,6 +1,9 @@
  <!-- jQuery Version 1.11.0 -->
     <script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
 
+    <script src="/static/js/jquery.cookie.js"></script>
+    <script src="/static/js/jquery.cookiecuttr.js"></script>
+
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
 
@@ -15,3 +18,33 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+    <script>
+      $(document).ready(function () {
+        $.cookieCuttr();
+      });
+    </script>
+    <script>
+      if (jQuery.cookie('cc_cookie_accept') == "cc_cookie_accept") {
+
+           // Yandex metrica
+           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+           ym(54026155, "init", {
+                clickmap:true,
+                trackLinks:true,
+                accurateTrackBounce:true
+           });
+
+           // Google
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+
+           gtag('config', 'UA-156963307-1');
+      }
+    </script>
+
+    <div><img src="https://mc.yandex.ru/watch/54026155" style="position:absolute; left:-9999px;" alt="" /></div>

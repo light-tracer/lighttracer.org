@@ -179,6 +179,58 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.btn-orange {
+    padding: 20px 40px;
+    border-color: #ecb665;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #ecb665;
+}
+
+.btn-orange:hover,
+.btn-orange:focus,
+.btn-orange:active,
+.btn-orange.active,
+.open .dropdown-toggle.btn-orange {
+    border-color: #ecb665;
+    color: #fff;
+    background-color: #f3e6d3;
+}
+
+.btn-orange:active,
+.btn-orange.active,
+.open .dropdown-toggle.btn-orange {
+    background-image: none;
+}
+
+.btn-orange.disabled,
+.btn-orange[disabled],
+fieldset[disabled] .btn-orange,
+.btn-orange.disabled:hover,
+.btn-orange[disabled]:hover,
+fieldset[disabled] .btn-orange:hover,
+.btn-orange.disabled:focus,
+.btn-orange[disabled]:focus,
+fieldset[disabled] .btn-orange:focus,
+.btn-orange.disabled:active,
+.btn-orange[disabled]:active,
+fieldset[disabled] .btn-orange:active,
+.btn-orange.disabled.active,
+.btn-orange[disabled].active,
+fieldset[disabled] .btn-orange.active {
+    border-color: #ecb665;
+    background-color: #ecb665;
+}
+
+.btn-orange .badge {
+    color: #ecb665;
+    background-color: #fff;
+}
+
 .navbar-default {
     border-color: transparent;
     background-color: #222;
