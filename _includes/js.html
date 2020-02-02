@@ -32,10 +32,13 @@
            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
+           $('#ya-metrica').attr('src','https://mc.yandex.ru/watch/54026155');
+
            ym(54026155, "init", {
-                clickmap:true,
-                trackLinks:true,
-                accurateTrackBounce:true
+              clickmap:true,
+              trackLinks:true,
+              accurateTrackBounce:true,
+              webvisor:true
            });
 
            // Google
@@ -47,4 +50,4 @@
       }
     </script>
 
-    <div><img src="https://mc.yandex.ru/watch/54026155" style="position:absolute; left:-9999px;" alt="" /></div>
+    <div><img id="ya-metrica" src="" style="position:absolute; left:-9999px;" alt=""></div>
